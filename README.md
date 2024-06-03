@@ -1,7 +1,7 @@
 # Age-Prediction-Challenge
+#### link: https://www.kaggle.com/competitions/2023-final/overview
 - 2023 딥러닝기초 기말프로젝트
 - 최종: 2위/36명
-#### link: https://www.kaggle.com/competitions/2023-final/overview
 
 ## Data Description
 * 얼굴 이미지 (200x200)와 각 이미지에 대한 연령대 클래스로 구성 <br>
