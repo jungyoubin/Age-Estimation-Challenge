@@ -26,11 +26,11 @@
   - date&time: 이미지 생성 날짜와 시간 (형식: yyyymmddHHMMSSFFF)
  
 * Dataset.csv: 총 7340개의 이미지가 포함되어 있으며, 다음과 같은 열 존재:
-- Image: 이미지 파일 이름
-- Label: 해당 클래스
-- Age: 정확한 나이
-- Gender: 성별
-- Race: 인종
+  - Image: 이미지 파일 이름
+  - Label: 해당 클래스
+  - Age: 정확한 나이
+  - Gender: 성별
+  - Race: 인종
 
 ## Testset Details
 * Test 이미지: '[gender]_[race]_[date&time].jpg' 형태로 구성
